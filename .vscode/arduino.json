@@ -1,0 +1,5 @@
+{
+    "programmer": "AVR ISP",
+    "board": "arduino:avr:micro",
+    "sketch": "Spider.ino"
+}
